@@ -16,6 +16,7 @@ The main architechural features of this building style includes:
 * Tiled roofs with dormer windows
 
 ### Main Assets Needed
+The main assets I will need includes:
 * Windows
 * Balconies
 * Roof Tiles
