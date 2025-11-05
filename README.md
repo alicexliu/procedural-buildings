@@ -1,6 +1,13 @@
 # CIS 5660 HW04 Procedural Buildings
+## Procedural Building
 
-## Part 0: Setup and Planning 
+
+https://github.com/user-attachments/assets/937fb192-1d72-4533-bb4f-0d726ee8e55b
+
+
+<img src="ss1.png" width="700"/>
+
+## Setup and Planning 
 ### References
 I was inspired by the buildings in Valorant's map Pearl. 
 
@@ -21,6 +28,18 @@ The main assets I will need includes:
 * Balconies
 * Roof Tiles
 * Doors
+
+## Assets Created in Houdini
+
+### Procedural Windows
+<img src="largeWindow.png" width="700"/>
+<img src="smallWindow.png" width="700"/>
+
+### Door
+<img src="door.png" width="700"/>
+
+### Balcony
+<img src="balcony.png" width="700"/>
 
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
